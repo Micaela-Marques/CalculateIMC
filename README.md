@@ -13,7 +13,8 @@
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
 
 - **HTML**
-- **CSS** 
+- **CSS**
+- **Javascript**
 
 
   
